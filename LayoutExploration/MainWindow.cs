@@ -14,7 +14,7 @@ namespace LayoutExploration
 
         Canvas canvas;
         TextBox display;
-        List<Button> numberButtons; // test
+        List<Button> numberButtons;
         decimal value = 0;
 
         internal MainWindow()
